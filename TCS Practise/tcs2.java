@@ -1,4 +1,5 @@
 package com.company;
+// SECOND largest number
 
 import java.util.Scanner;
 
