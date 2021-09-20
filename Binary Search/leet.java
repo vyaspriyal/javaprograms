@@ -1,5 +1,5 @@
 package com.company;
-
+// find maximum letter in the given seq..
 public class leet {
 
         public static void main(String[] args) {
