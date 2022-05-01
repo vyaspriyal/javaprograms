@@ -18,3 +18,16 @@ public class zigzag{
 
     }
 }
+
+//output:-
+/*
+pre2
+pre1
+In1
+Post1
+In2
+pre1
+In1
+Post1
+Post2
+*/
